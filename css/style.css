@@ -27,7 +27,7 @@
     margin-left: 10px;
     padding: 5px;
     font-size: 20px;
-    color: #fff;
+    color: #ffffff;
     font-family: "Arial" monospace;
     text-decoration: none;
     text-transform: uppercase;
@@ -54,7 +54,7 @@
     visibility: hidden;
   }
   #active {
-    color: orangered;
+    color: rgb(37, 159, 216);
     font-size: 22px;
     font-weight: bold;
   }
@@ -83,7 +83,7 @@
     }
     .header {
       background-color: rgb(0, 0, 0, 0.79);
-      color: white;
+      color: rgb(255, 255, 255);
     }
     .navbar {
       width: 0;
@@ -136,7 +136,7 @@
   .banner-area {
     position: relative;
     transition: 2s;
-    background-image: url(../image/istri_gw.jpeg);
+    background-image: url(../image/rm378-07.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -171,7 +171,7 @@
     text-align: center;
     top: 64%;
     width: 100%;
-    color: white;
+    color: rgb(255, 255, 255);
     text-transform: uppercase;
     letter-spacing: 1.5px;
   }
@@ -531,7 +531,7 @@
     transition: 0.5s;
   }
   .container .box:hover .content {
-    color: #fff;
+    color: #fff34a;
   }
   .container .box .content h3 {
     font-size: 30px;
