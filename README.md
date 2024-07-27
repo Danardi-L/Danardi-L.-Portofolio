@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio! This project showcases my skills and projects using Next.js, React (JSX), Tailwind CSS, and Yarn. 
+Welcome to my personal portfolio! This project showcases my skills and projects using Next.js, React, Tailwind CSS, and Yarn. 
 
 ## Table of Contents
 
