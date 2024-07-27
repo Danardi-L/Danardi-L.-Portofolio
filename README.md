@@ -6,8 +6,6 @@ Welcome to my personal portfolio! This project showcases my skills and projects 
 
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,31 +20,6 @@ This portfolio is designed to highlight my abilities and projects in web develop
 - **React (JSX)**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **Yarn**: A package manager for JavaScript.
-
-## Installation
-
-To get started with this project, follow these steps:
-
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/personal-portfolio.git
-
-2. **Navigate to the project directory:**
-   ```sh
-   cd personal-portfolio
-
-3. **Install the dependencies:**
-   ```sh
-   yarn install
-   
-**Usage**
-To run the project locally, use the following command:
-```sh
-yarn dev
-```
-Open your browser and navigate to http://localhost:3000 to see the portfolio.
-
 
 **Screenshots**
 
