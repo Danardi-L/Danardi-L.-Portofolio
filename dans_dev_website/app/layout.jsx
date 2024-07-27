@@ -7,7 +7,7 @@ import PageTransition from "@/components/PageTransition";
 import StairTransition from "@/components/StairTransition";
 
 const jetbrainsMono = JetBrains_Mono({ 
-  subsets: ["latin"], 
+  subsets:  ["latin"], 
   weight: ["100", "200", "300", "400", "500", "600","700", "800"],
   variable: '--font-jetbrainsMono'
 });
