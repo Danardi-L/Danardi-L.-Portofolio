@@ -21,9 +21,6 @@ This portfolio is designed to highlight my abilities and projects in web develop
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **Yarn**: A package manager for JavaScript.
 
-**Screenshots**
-
-
 *Contributing**
 If you would like to contribute to this project, please follow these steps:
 
