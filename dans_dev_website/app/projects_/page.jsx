@@ -45,7 +45,7 @@ const projects = [
         num: "03",
         projectName: "DoTaKu",
         title: "project 3",
-        description: "app for money management",
+        description: ["app for money management",<br />,"Dev: Danardi L, Poundra Adiyatma"],
         stack: [{name: "Dart"}, {name: "C++"}],
         image: "/assets/work/DoTaKu.png",
         live: "",
@@ -68,7 +68,7 @@ const projects = [
         description: "website for a car rental agency",
         stack: [{name: "Unity"}, {name: "C#"}],
         image: "/assets/work/QSI.png",
-        live: "",
+        live: "https://drive.google.com/drive/folders/1mvKTMYUtxa-SmmikAR0gjC8VOp907N-5?usp=sharing",
         github: ""
     },
 ];

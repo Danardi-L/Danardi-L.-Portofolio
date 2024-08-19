@@ -19,7 +19,7 @@ const services = [
     {
         num: '03',
         title: 'Backend Development',
-        description: 'I develop server-side logic, databases, and APIs using Node.js, MongoDB, and other technologies to power web applications.',
+        description: 'I develop server-side logic, databases, and APIs using Go-lang, Node.js, MongoDB, and other technologies to power web applications.',
         href: '',
     },
     {
