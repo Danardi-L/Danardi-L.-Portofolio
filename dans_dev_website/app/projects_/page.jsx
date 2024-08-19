@@ -45,7 +45,7 @@ const projects = [
         num: "03",
         projectName: "DoTaKu",
         title: "project 3",
-        description: ["app for money management",<br />,"Dev: Danardi L, Poundra Adiyatma"],
+        description: <span>app for money management <br /> Dev: Danardi L, Poundra Adiyatma</span>,
         stack: [{name: "Dart"}, {name: "C++"}],
         image: "/assets/work/DoTaKu.png",
         live: "",
