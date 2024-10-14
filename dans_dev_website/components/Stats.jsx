@@ -2,9 +2,9 @@
 import CountUp from "react-countup";
 
 const stats = [
-    { number: 2, text: "Years of Experience" },
+    { number: 1, text: "Years of Experience" },
     { number: 6, text: "Projects" },
-    { number: 3, text: "Clients" },
+    { number: 2, text: "Clients" },
     { number: 150, text: "Code commits" },
 ];
 

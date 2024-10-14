@@ -15,30 +15,24 @@ import Image from "next/image";
 import WorkSliderButtons from "@/components/WorkSliderButtons";
 
 const projects = [
-    // {
-    //     num: "01",
-    //     name: "Cen-Rental",
-    //     title: "project 1",
-    //     description: "",
-    // },
     {
         num: "01",
         projectName: "WiMu - Wisata Kamu",
         title: "project 1",
-        description: "website for a travel agency",
+        description: "website for a travel agency (unofficial website, under development)",
         stack: [{name: "Next.js"}, {name: "TailwindCSS"}, {name: "Supabase"}, {name: "Kinde"}, {name: "TypeScript"}],
-        image: "/assets/work/wimu.png",
-        live: "",
+        image: "/assets/work/wimu_website.png",
+        live: "https://wimu.danardidev.my.id/",
         github: "https://github.com/Danardi-L/WiMu-Wisata-Kamu",
     },
     {
         num: "02",
         projectName: "D2M",
         title: "project 2",
-        description: "website for cosplay rental",
-        stack: [{name: "PHP"}, {name: "JavaScript"}, {name: "CSS"}, {name: "HTML"}],
-        image: "/assets/work/D2M.png",
-        live: "",
+        description: "website for cosplay rental (under development)",
+        stack: [{name: "PHP"}, {name: "JavaScript"}, {name: "Bootstrap 5"}],
+        image: "/assets/work/d2m_website.png",
+        live: "https://d2m.my.id/",
         github: "https://github.com/Danardi-L/d2m-website"
     },
     {
@@ -46,7 +40,7 @@ const projects = [
         projectName: "DoTaKu",
         title: "project 3",
         description: <span>app for money management <br /> Dev: Danardi L, Poundra Adiyatma</span>,
-        stack: [{name: "Dart"}, {name: "C++"}],
+        stack: [{name: "Dart"}],
         image: "/assets/work/DoTaKu.png",
         live: "",
         github: "https://github.com/Danardi-L/DoTaKu"
@@ -55,9 +49,9 @@ const projects = [
         num: "04",
         projectName: "Hell Ducks",
         title: "project 4",
-        description: "Retro FPS game",
+        description: "Retro FPS game for PC (under development)",
         stack: [{name: "Unity"}, {name: "C#"}],
-        image: "/assets/work/HellDucks.png",
+        image: "/assets/work/NA.png",
         live: "",
         github: ""
     },
@@ -65,11 +59,21 @@ const projects = [
         num: "05",
         projectName: "Quiz Sciences Indonesia",
         title: "project 5",
-        description: "website for a car rental agency",
+        description: "Quiz game for mobile (android only)",
         stack: [{name: "Unity"}, {name: "C#"}],
         image: "/assets/work/QSI.png",
         live: "https://drive.google.com/drive/folders/1mvKTMYUtxa-SmmikAR0gjC8VOp907N-5?usp=sharing",
         github: ""
+    },
+    {
+        num: "06",
+        projectName: "Beasiswa Ku",
+        title: "project 6",
+        description: "Website for scholarship information (under development)",
+        stack: [{name: "PHP"}, {name: "JavaScript"}, {name: "Bootstrap 5"}],
+        image: "/assets/work/beasiswaKu.png",
+        live: "",
+        github: "https://github.com/Danardi-L/Beasiswa-Ku"
     },
 ];
 

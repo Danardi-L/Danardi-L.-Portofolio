@@ -12,8 +12,8 @@ const services = [
     },
     {
         num: '02',
-        title: 'UI/UX Design',
-        description: 'I create intuitive, user-centered designs that blend aesthetics and functionality, transforming ideas into seamless digital experiences.',
+        title: 'Video Editing',
+        description: 'I create video content for my YouTube channel using Adobe Premiere software. I produce gaming montage videos for my YouTube channel.',
         href: '',
     },
     {
